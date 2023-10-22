@@ -1,5 +1,5 @@
 // Credits: Christian Villanueva, Jaero Octaviano
-
+// Spiral Box: change i=4 to i=2 to make it larger
 #include <stdio.h>
 #include <windows.h>
 #define p printf
